@@ -5,9 +5,9 @@
 package reflect
 
 import (
-	"internal/abi"
-	"internal/itoa"
-	"internal/unsafeheader"
+	"abi"
+	"itoa"
+	"unsafeheader"
 	"math"
 	"runtime"
 	"unsafe"
